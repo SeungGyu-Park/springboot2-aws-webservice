@@ -1,6 +1,6 @@
 package com.seunggyu.book.springboot.web;
 
-import com.seunggyu.book.springboot.web.Dto.HelloResponseDto;
+import com.seunggyu.book.springboot.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
